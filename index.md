@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Otsikko
 
 You can use the [editor on GitHub](https://github.com/Janina-S2/janina-s2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
